@@ -1,0 +1,119 @@
+1. Dirección visual
+Reducir significativamente la cantidad de texto visible.
+Usar:
+Mucho espacio en blanco
+Tipografía grande y elegante
+Secciones cortas
+Máximo 3–4 ideas por bloque visual
+Menos cards, bordes, iconos y elementos decorativos
+Diseño mobile-first
+Fotografías grandes como parte central del storytelling
+Reservar espacio para 3 fotografías principales:
+Hero: pareja feliz conversando cara a cara.
+Sección intermedia: personas solteras conversando en un ambiente social elegante y natural.
+Sección final: conexión/pareja en un ambiente cálido.
+No generar fotografías artificiales como parte de esta modificación; crear placeholders fáciles de reemplazar posteriormente.
+
+2. HERO
+Usar una fotografía grande de una pareja feliz como elemento visual dominante.
+Headline:
+Encuentro
+Donde el amor se encuentra cara a cara.
+Subheadline:
+Para personas que buscan una relación sólida y estable.
+Grupos disponibles:
+25–34 · 35–49 · 50–65
+ Encuentros heterosexuales
+CTA principal:
+Ver próximos encuentros
+CTA secundario:
+Cómo funciona
+Eliminar mensajes sobre algoritmos, IA, verificación de identidad o compatibilidad predictiva del Hero.
+
+3. ¿POR QUÉ ENCUENTRO?
+Título:
+Menos tiempo buscando. Más oportunidades de conectar.
+Presentar cinco beneficios de forma muy visual y concisa.
+Eficiencia
+Conoce varias personas en una sola noche, en lugar de pasar semanas haciendo match y enviando mensajes.
+Autenticidad
+La conversación cara a cara permite descubrir desde el principio algo que un perfil no puede mostrar: química, energía y conexión.
+Tranquilidad
+Encuentros en lugares públicos, con moderación profesional, reglas claras y sin obligación de compartir tus datos de contacto.
+Calidad sobre cantidad
+Participantes agrupados mediante alineación de perfiles, considerando edad, preferencias e intención de construir una relación.
+Sin presión
+Conversaciones breves, ambiente relajado y libertad total para decidir a quién quieres volver a conocer.
+IMPORTANTE: No utilizar como beneficio la promesa de “identidad verificada” o “verificación de identidad”.
+
+4. ¿CÓMO FUNCIONA?
+Mantener únicamente cuatro pasos.
+1. Completa tu perfil
+Cuéntanos quién eres, qué buscas y qué es importante para ti en una relación.
+2. Alineación de perfiles
+Organizamos los encuentros considerando edad, preferencias, intención de relación y criterios relevantes compartidos.
+3. Conoce en persona
+Participa en una noche agradable y conoce cara a cara a varias personas con perfiles alineados al tuyo.
+4. Tú decides
+Después del encuentro, indícanos de forma privada a quién te gustaría volver a ver. Solo compartimos el contacto cuando el interés es mutuo.
+No utilizar las palabras “curado”, “curada”, “curación” o “curated” en ninguna parte de la página.
+Utilizar “alineación de perfiles” como concepto central.
+
+5. POSICIONAMIENTO COMPETITIVO
+Reemplazar la comparación actual por una versión más sencilla y orientada a beneficios.
+Título:
+Una forma diferente de conocer a alguien
+Apps de citas
+Muchos perfiles.
+ Semanas de mensajes.
+ Intenciones difíciles de conocer.
+ La química se descubre tarde.
+Speed Dating tradicional
+Muchas conversaciones al azar.
+ Poco tiempo por persona.
+ El foco está en cantidad.
+ Poca alineación previa.
+Encuentro
+Alineación de perfiles.
+ Intención de relación clara.
+ Química cara a cara desde el comienzo.
+ Varias oportunidades reales en una sola noche.
+ Contacto únicamente cuando existe interés mutuo.
+No afirmar que Encuentro “garantiza compatibilidad” ni que puede predecir quién será una pareja adecuada.
+La promesa es crear mejores condiciones para conocer personas relevantes, no garantizar el amor.
+
+6. MENSAJE CENTRAL
+Todo el diseño y copy debe reforzar tres ideas:
+Personas con intención.
+ Perfiles alineados.
+ Química cara a cara.
+El visitante debe poder entender la propuesta de Encuentro en menos de 10 segundos.
+Evitar lenguaje tecnológico.
+No enfatizar:
+algoritmos
+IA
+matching scores
+bases de datos
+tecnología
+verificación de identidad
+La tecnología debe funcionar detrás de escena.
+La experiencia que vendemos es humana.
+
+7. CTA FINAL
+Añadir una fotografía emocional antes o junto al CTA final.
+Headline:
+Tal vez tu próximo encuentro empiece aquí.
+Texto:
+Conoce personas que, como tú, están abiertas a construir una relación real.
+CTA:
+Encontrar mi próximo encuentro
+Debajo:
+25–34 · 35–49 · 50–65 | Medellín
+
+8. REGLA GENERAL DE COPY
+Reducir aproximadamente 40–50% del texto actual de la homepage.
+Cuando haya que elegir entre explicar una funcionalidad y comunicar un beneficio, priorizar el beneficio.
+El tono debe ser:
+Adulto · cálido · elegante · confiable · optimista
+No debe sentirse como Tinder, una discoteca, una aplicación tecnológica ni una agencia matrimonial tradicional.
+Debe sentirse como una forma moderna y natural de volver a conocer personas en la vida real.
