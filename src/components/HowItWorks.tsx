@@ -3,7 +3,7 @@ import Image from "next/image";
 const steps = [
   {
     number: "1",
-    title: "Completa tu perfil",
+    title: "Construyamos juntos tu perfil",
     description:
       "Cuéntanos quién eres, qué buscas y qué es importante para ti en una relación.",
   },
@@ -15,9 +15,9 @@ const steps = [
   },
   {
     number: "3",
-    title: "Conoce en persona",
+    title: "Encuentros personales",
     description:
-      "Participa en una noche agradable y conoce cara a cara a varias personas con perfiles alineados al tuyo.",
+      "Participa en una noche pensada para conectar, no para competir. Conoce cara a cara a varias personas con perfiles alineados al tuyo.",
   },
   {
     number: "4",
@@ -44,6 +44,12 @@ export function HowItWorks() {
           <h2 className="font-display text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl">
             Cómo funciona
           </h2>
+
+          <p className="mt-4 text-stone-600">
+            ¡Bienvenid@! Gracias por confiar en Encuentro. Cuidamos tu información con
+            el mismo respeto con el que cuidamos tu tiempo: solo la usamos para
+            organizar encuentros pensados para ti.
+          </p>
 
           <div className="mt-10 space-y-8">
             {steps.map((step) => (

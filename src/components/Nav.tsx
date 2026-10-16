@@ -16,9 +16,14 @@ export function Nav() {
   return (
     <header className="sticky top-0 z-50 border-b border-stone-200 bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6">
-        <a href="#" className="text-xl font-bold tracking-tight text-rose-600">
-          ENCUENTRO
-        </a>
+        <div className="flex flex-col items-start gap-0.5">
+          <a href="#" className="text-xl font-bold tracking-tight text-rose-600">
+            ENCUENTRO
+          </a>
+          <span className="text-[11px] font-medium text-stone-400">
+            Edades: 25–34 · 35–49 · 50–65 · Encuentros heterosexuales
+          </span>
+        </div>
 
         <nav className="hidden items-center gap-8 lg:flex">
           {links.map((link) => (

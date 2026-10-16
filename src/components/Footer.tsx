@@ -6,6 +6,11 @@ export function Footer() {
         <p className="max-w-md text-sm text-stone-400">
           Encuentros reales, cara a cara. Medellín, Colombia.
         </p>
+        <p className="max-w-md text-sm text-stone-400">
+          Te invitamos a vivir una experiencia única e inolvidable — no prometemos
+          encontrar el amor, pero sí una noche de conexión real, contigo mismo y con
+          otros.
+        </p>
         <p className="text-xs text-stone-500">
           © {new Date().getFullYear()} Encuentro. Todos los derechos reservados.
         </p>

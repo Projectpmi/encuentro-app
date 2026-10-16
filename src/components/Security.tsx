@@ -17,7 +17,7 @@ export function Security() {
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="font-display text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl">
-            Seguridad
+            Espacio Seguro
           </h2>
           <p className="mt-4 text-stone-600">Tu tranquilidad es parte del diseño.</p>
         </div>
