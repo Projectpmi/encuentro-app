@@ -23,7 +23,7 @@ export function FinalCTA() {
           Encontrar mi próximo encuentro
         </a>
         <p className="mt-6 text-sm font-medium text-stone-300">
-          25–34 · 35–49 · 50–65 | Medellín
+          Edades: 25–34 · 35–49 · 50–65 | Medellín
         </p>
       </div>
     </section>

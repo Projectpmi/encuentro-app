@@ -7,6 +7,7 @@ import { WhyEncuentro } from "@/components/WhyEncuentro";
 import { Security } from "@/components/Security";
 import { FAQ } from "@/components/FAQ";
 import { FinalCTA } from "@/components/FinalCTA";
+import { Team } from "@/components/Team";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
         <Security />
         <FAQ />
         <FinalCTA />
+        <Team />
       </main>
       <Footer />
     </>

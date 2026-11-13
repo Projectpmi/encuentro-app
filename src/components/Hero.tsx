@@ -25,7 +25,7 @@ export function Hero() {
             Para personas que buscan una relación sólida y estable.
           </p>
           <p className="mt-6 text-sm font-medium text-stone-500">
-            25–34 · 35–49 · 50–65 · Encuentros heterosexuales
+            Edades: 25–34 · 35–49 · 50–65 · Encuentros heterosexuales
           </p>
           <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row lg:justify-start">
             <a
