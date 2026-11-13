@@ -10,8 +10,7 @@ export function UpcomingEvents() {
             Próximo encuentro
           </h2>
           <p className="mt-4 text-stone-600">
-            Primer evento piloto. Cupos limitados, grupo pequeño y cuidadosamente
-            seleccionado.
+            Cupos limitados, grupo pequeño y cuidadosamente seleccionado.
           </p>
         </div>
 
@@ -19,7 +18,7 @@ export function UpcomingEvents() {
           <div className="flex flex-col border-t border-stone-200 pt-6">
             <div className="h-32 rounded-xl bg-gradient-to-br from-rose-100 to-amber-100" />
             <h3 className="mt-5 text-lg font-semibold text-stone-900">
-              {encuentroEvent.title}
+              {encuentroEvent.date} · {encuentroEvent.time}
             </h3>
             <p className="mt-1 text-sm text-stone-500">
               {encuentroEvent.location}
@@ -27,10 +26,7 @@ export function UpcomingEvents() {
                 <span className="text-stone-400"> (pendiente de confirmación)</span>
               )}
             </p>
-            <p className="mt-3 text-sm text-stone-700">
-              {encuentroEvent.date} · {encuentroEvent.time}
-            </p>
-            <p className="mt-1 text-xs text-stone-500">{encuentroEvent.ageGroup}</p>
+            <p className="mt-3 text-xs text-stone-500">{encuentroEvent.ageGroup}</p>
             <div className="mt-4 flex items-center justify-between text-sm">
               <span className="font-semibold text-stone-900">{encuentroEvent.price}</span>
               <span className="text-stone-500">{encuentroEvent.status}</span>

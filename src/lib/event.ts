@@ -1,5 +1,4 @@
 export type EncuentroEvent = {
-  title: string;
   date: string;
   time: string;
   location: string;
@@ -11,7 +10,6 @@ export type EncuentroEvent = {
 };
 
 export const encuentroEvent: EncuentroEvent = {
-  title: "Encuentro — Primer evento piloto",
   date: "26 de noviembre de 2026",
   time: "6:30 p. m. – 9:00 p. m.",
   location: "El Poblado, Medellín",

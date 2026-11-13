@@ -8,7 +8,7 @@ const team = [
       "Emprendedora y consultora estratégica, Gisela es la impulsora de Encuentro, una iniciativa que busca recuperar el valor de las conexiones personales cara a cara.",
       "Desde la organización y el diseño de la experiencia, trabaja para crear espacios cálidos, auténticos y bien estructurados, donde conocer nuevas personas resulte más natural y significativo.",
     ],
-    image: "/images/gisela-rua-portrait.png",
+    image: "/images/gisela-rua-portrait.webp",
   },
   {
     name: "Jairo Alonso Mejía Arcila",
@@ -17,7 +17,7 @@ const team = [
       "Psicólogo de la Universidad Católica Luis Amigó, con experiencia en acompañamiento individual, de pareja y familiar. Su trayectoria incluye la comunicación asertiva, el fortalecimiento de vínculos y la resolución de conflictos.",
       "En Encuentro, Jairo acompañará y facilitará las dinámicas del evento, contribuyendo a crear un ambiente de confianza, respeto y conexión auténtica entre los participantes.",
     ],
-    image: "/images/jairo-mejia-portrait.png",
+    image: "/images/jairo-mejia-portrait.webp",
   },
 ];
 
@@ -39,7 +39,8 @@ export function Team() {
                   src={member.image}
                   alt={`Retrato de ${member.name}`}
                   fill
-                  className="object-cover"
+                  sizes="160px"
+                  className="object-cover object-top"
                 />
               </div>
               <h3 className="mt-5 font-semibold text-stone-900">{member.name}</h3>
