@@ -10,7 +10,7 @@ export type EncuentroEvent = {
 };
 
 export const encuentroEvent: EncuentroEvent = {
-  date: "26 de noviembre de 2026",
+  date: "10 de diciembre de 2026",
   time: "6:30 p. m. – 9:00 p. m.",
   location: "El Poblado, Medellín",
   locationConfirmed: false,
